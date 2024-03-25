@@ -8,7 +8,7 @@
 ## Purpose
 
 Currently I have been directing my studies to programming and business. 
-I'm working as a Development Intern in the Public sector that serves the entire municipal administration, including City Hall and City Council, as well as companies in the private sector.
+I work in the IT Support area along with personal projects related to technology..
 My main objective is to positively impact our society and the technological community.
 
 ---
