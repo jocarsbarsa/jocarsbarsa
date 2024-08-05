@@ -7,9 +7,10 @@
 
 ## Purpose
 
-Currently I have been directing my studies to programming and business. 
-I work in the IT Support area along with personal projects related to technology..
-My main objective is to positively impact our society and the technological community.
+I'm currently focusing my studies on programming and business.
+I work in the IT Support area along with personal projects related to technology.
+I'm currently studying Information Technology for Business at FATEC. As a GitHub Campus Expert and member of the Aspire Leaders Program, I am training to develop leadership skills and generate social impact in my communities. I have experience in software development, participating in web and mobile projects.
+My main goal is to positively impact our society and the technology community.
 
 ---
 In my free time I skating 🛹 and practice martial arts 🥋.
