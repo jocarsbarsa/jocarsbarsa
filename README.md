@@ -12,7 +12,7 @@ I have professional experience as an IT Support Analyst, working closely with sy
 I hold a degree in Information Technology for Business from FATEC, where I strengthened my understanding of how technology drives real-world business solutions.
 As a GitHub Campus Expert and member of the Aspire Leaders Program, I am developing leadership skills and creating social impact within my communities. I also have experience in software development, contributing to both web and mobile projects.
 
-I'm the organizer of (Tech Day Conference)[https://www.techdayconference.com.br], a community-driven technology event that brings together professionals, students, and opportunities to strengthen our regional tech ecosystem.
+I'm the organizer of [Tech Day Conference](https://www.techdayconference.com.br), a community-driven technology event that brings together professionals, students, and opportunities to strengthen our regional tech ecosystem.
 My main goal is to positively impact our society and the technology community.
 
 ---
