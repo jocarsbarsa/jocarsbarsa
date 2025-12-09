@@ -7,9 +7,12 @@
 
 ## Purpose
 
-I'm currently focusing my studies on programming and business.
-I work in the IT Support area along with personal projects related to technology.
-I'm currently studying Information Technology for Business at FATEC. As a GitHub Campus Expert and member of the Aspire Leaders Program, I am training to develop leadership skills and generate social impact in my communities. I have experience in software development, participating in web and mobile projects.
+I'm passionate about the intersection between technology and business.
+I have professional experience as an IT Support Analyst, working closely with systems, users, and technical operations.
+I hold a degree in Information Technology for Business from FATEC, where I strengthened my understanding of how technology drives real-world business solutions.
+As a GitHub Campus Expert and member of the Aspire Leaders Program, I am developing leadership skills and creating social impact within my communities. I also have experience in software development, contributing to both web and mobile projects.
+
+I'm the organizer of (Tech Day Conference)[https://www.techdayconference.com.br], a community-driven technology event that brings together professionals, students, and opportunities to strengthen our regional tech ecosystem.
 My main goal is to positively impact our society and the technology community.
 
 ---
